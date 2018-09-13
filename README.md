@@ -1,4 +1,4 @@
 # HelloWorld
 ===============
 
-Shaun, Test File
+Shaun Jose, Test File
